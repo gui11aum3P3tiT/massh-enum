@@ -8,3 +8,7 @@ support
 backup
 mysql
 postgres
+apache2
+visitor
+god
+ldap
